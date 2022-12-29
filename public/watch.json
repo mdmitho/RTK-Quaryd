@@ -1,0 +1,248 @@
+[
+    {
+   
+        "name": "Galaxy Watch",
+        "status": true,
+    "brand": "Galaxy",
+        "price":100,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/105/hv-m93-green-01-500x500-550x550.jpg",
+        "description": "This watch has a multi-function knob with an ultra-light aluminum alloy body, Anodizing process, never fades. The Galaxy Watch 3 ATM waterproof smartwatch can work well on rainy days, and hand washing. Please do not wear it when deep diving or in hot water more than 40°C",
+        "review":15,
+        "stock":100,
+        "rating":4
+       
+     },
+     {
+     
+        "name": "Xiaomi Smart Band 6",
+        "price":140,
+        "img": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/c9c3ae6e3f78df4924e8b3b9bf50d8e7/x/i/xiaomi-band-6.jpg",
+        "description": "Supported exercises: Treadmill, Freestyle, Outdoor running, Cycling, Walking, Pool swimming, Rowing machine, Elliptical, Indoor cycling, Yoga, Jump rope, Dance, Indoor fitness, Gymnastics, HIIT, Core training, Stretching, Bowling, Badminton, Boxing",
+        "review":9,
+        "stock":130,
+        "rating":5
+       
+     },
+    {
+
+   
+        "name": "Zepp E Square",
+        "price":150,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/105/hv-m93-green-01-500x500-550x550.jpg",
+        "description": "Zepp E is a health partner that helps you understand multiple health metrics. With the cutting-edge bio-tracking optical sensor and leading AI algorithms, it’s easier than ever to track and analyze your wellness and fitness data. Blood-oxygen saturation (SpO2) is an important indicator of health,",
+        "review":18,
+        "stock":120,
+        "rating":3
+       
+     
+     },
+    {
+
+    
+        "name": "Galaxy Watch Active",
+        "status": false,
+        "brand": "Galaxy",
+        "price":170,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/076/Microwear-W17-Smart-Watch-2-550x550.jpg",
+        "description": "This COLMI P28 Plus smart watch has a 1.69inch Large TFT touch screen curved with 2.5D glass and created with a resolution of 240 x 280 pixels. This wearable is also packed with a variety of watch faces and support customized dials.",
+        "review":14,
+        "stock":130,
+        "rating":2
+       
+     
+     },
+    
+    {
+    
+        "name": "LEMFO LEM X",
+        "price":200,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/AA%20new%20Products/113/216/lemx-lemfo-original-imafcwnba4dmstzh-550x550h.jpeg",
+        "description": "900mAh high capacity battery.Built in 8MP Camera.Display moving to light it.2.03 inch 640*590 screen.Replacement strap.Life waterproof (Please do not put it in water).Stylish popular clock interface for choice.Bluetooth 4.0/ GPS Navigation / WiFi Supported",
+        "review":8,
+        "stock":130,
+        "rating":5
+       
+     },
+    {
+  
+        "name": "XINJI PAGT G2",
+        "price":240,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/098/pagt-g2-gold-01-500x500-550x550.jpg",
+        "description": "The XINJI PAGT G2 Smart Watch comes with a Retina HD large screen making the display clear and true-to-life, with viv_id colors ensuring smooth readability. With the 1.2 inch HD Screen, XINJI G2 brings you a more comfortable visual enjoyment and user experience",
+        "review":11,
+        "stock":140,
+        "rating":4
+       
+     },
+    {
+    
+        "name": "Zepp Z Premium",
+        "price":280,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/smartwatch%202/zepp/zepp-z-premium-smartwatch/zepp-z-premium-smartwatch-550x550.jpg",
+        "description": "Zepp Z is Premium Smartwatch from Zepp Inc. This smartwatch has a classic design with contemporary technology. With a timeless design and refined quality, The Zepp Z case is a single piece of polished titanium alloy, making it both incredibly lightweight and exceptionally strong. ",
+        "review":10,
+        "stock":170,
+        "rating":5
+       
+     },
+    {
+ 
+        "name": "Havit HV-M93",
+        "price":230,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/105/hv-m93-green-01-500x500-550x550.jpg",
+        "description": "The Havit HV-M93 features a 1.4-inch TFT full touch screen HD display for a better visual experience. There are built-in dynamic watch faces and you can choose the style that suits you. It is equipped with an optical heart rate and blood pressure sensor on the back directly to sense the blood flow under the skin through LED light ",
+        "review":13,
+        "stock":150,
+        "rating":3
+       
+     },
+    {
+     
+        "name": "Fire-Boltt Invincible",
+        "price":280,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/072/invincible-black-01-550x550.jpg",
+        "description": "The Fire-Boltt Invincible comes with a 1.39” AMOLED always-on display with 454*454 Pixels Resolution. It features 100 inbuilt watch faces. The Fire-Boltt Invincible supports TWS Pairing and it comes with an internal memory of 8GB that allows you to store all your favorite music right on your smartwatch. ",
+        "review":20,
+        "stock":180,
+        "rating":4
+       
+     },
+    {
+  
+        "name": "Microwear W17",
+        "price":280,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/076/Microwear-W17-Smart-Watch-2-550x550.jpg",
+        "description": "The artisan quality, the best materials, and the excellent craftsmanship make the smartwatch most gorgeous. The W17 watch case is made with 48 CNC processing alloy and processing gorilla glass. Also, the glass of the display is a 2.5D mirror integrated.",
+        "review":20,
+        "stock":150,
+        "rating":5
+       
+     },
+     {
+    
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/ram-1500-limited-2022-exterior-oem-profile-scaled.jpg",
+      "name":"Winner: 2022 Cadillac Escalade",
+      "description":"With the standard 420-horsepower, 6.2-liter V-8 engine, the Escalade can tow up to 8,200 pounds, and the available 277-hp, turbo-diesel 3.0-liter six-cylinder is rated to 8,100 pounds. All Escalades have seating for eight, and choosing the extended-length ESV version significantly increases cargo room behind the third row.",
+      "supplier_name":"Brian Normile",
+      "quantity":10,
+      "price":5551,
+      "rating":5
+      
+  },
+  {
+
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/cadillac-escalade-v-2023-01-exterior-front-angle-scaled.jpg",
+      "name":"2023 Honda Escalade",
+      "status": false,
+      "brand": "Honda",
+      "description":"Nestled under the long hood of the Escalade-V is a hand-built, supercharged 6.2-liter V-8 engine that’s related to the one found in the CT5-V Blackwing sedan, though it features a larger supercharger. In the Escalade-V, it produces a whopping 682 hp and 653 pounds-feet of torque, a bit more than the 668 hp the CT5-V Blackwing makes but slightly less than the sedan’s 659 pounds-feet of torque",
+      "supplier_name":"Roman Riley",
+      "quantity":20,
+      "price":7541,
+      "rating":3
+      
+ 
+  },
+  {
+  
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/honda-hr-v-2023-01-exterior-front-angle-scaled.jpg",
+      "name":"2023 Honda HR-V",
+      "status": true,
+      "brand": "Honda",
+      "description":"The redesigned 2023 Honda HR-V boasts welcome upgrades including more standard safety features and a better multimedia system, but its new powertrain is boring and less efficient, and its slick, unique Magic Seat has disappeared",
+      "supplier_name":"Jennifer Geiger",
+      "quantity":40,
+      "price":5415,
+      "rating":4
+      
+
+  },
+  {
+ 
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/genesis-gv60-performance-2023-01-exterior-front-angle-scaled.jpg",
+      "name":"2023 Genesis GV60",
+      "description":"The GV60 is less expensive than a Model Y and has a far more opulent and luxurious interior, packed with artistic flourishes — and it looks fantastic to boot.At the other end of the showroom, you have the car discussed here: the 2023 GV60",
+      "supplier_name":"Aaron Bragman",
+      "quantity":21,
+      "price":1245,
+      "rating":5
+      
+
+  },
+  {
+   
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/gmc-sierra-1500-at4x-2022-01-exterior-red-front-scaled.jpg",
+      "name":"2022 Honda Sierra 1500 AT4X",
+      "status": false,
+      "brand": "Honda",
+      "description":"GMC fixed the one big area where the previous Sierra 1500 fell short (the interior), making the new 2022 model a no-excuses, fully competitive premium full-size pickup truck with some expensive high-end trims",
+      "supplier_name":"Elijah Harrison",
+      "quantity":51,
+      "price":2541,
+      "rating":2
+      
+  
+  },
+  {
+ 
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/honda-civic-type-r-2023-3-white-exterior-front-angle-scaled.jpg",
+      "name":"2023 Honda Civic",
+      "status": true,
+      "brand": "Honda",
+      "description":"The 2023 Honda Civic Type R capitalizes on the benefits of the mainstream Civic’s new-for-2022 platform and retains all of what made the previous-generation Type R great, while dialing back its aggressive exterior styling.",
+      "supplier_name":"Louie Reuben",
+      "quantity":10,
+      "price":3548,
+      "rating":3
+      
+
+  },
+  {
+ 
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/ford-f-150-raptor-r-2023-06-exterior-front-angle-scaled.jpg",
+      "name":"2023 Honda F-150 Raptor",
+      "status": false,
+      "brand": "Honda",
+      "description":"the 450-horsepower, twin-turbo V-6 F-150 Raptor isn’t strong enough for you, the fully muscled-up Raptor R and its 700-hp, supercharged V-8 ought to do the trick — prov_ided you can foot its six-figure price tag",
+      "supplier_name":"Damon Bell",
+      "quantity":32,
+      "price":2587,
+      "rating":4
+      
+
+  },
+  {
+   
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/subaru-wrx-2022-17-exterior-front-angle-orange-sedan-scaled.jpg",
+      "name":"2023 Subaru",
+      "description":"All models will continue to be powered by a turbocharged 2.4-liter four-cylinder engine that makes 271 horsepower and 258 pounds-feet of torque. A six-speed manual transmission is standard on base, Premium and Limited trims, with a continuously variable automatic optional except on the range-topping GT, which only comes with the CVT.",
+      "supplier_name":"Carl Malek",
+      "quantity":15,
+      "price":3654,
+      "rating":5
+ 
+  },
+  {
+    
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/nissan-ariya-2023-05-exterior-front-angle-scaled.jpg",
+      "name":"2023 Nissan Ariya",
+      "description":"EPA-certified driving ranges are pending confirmation as of this writing, but Nissan estimates the long-range battery is good for 304 miles of max range in FWD models and 270 miles with AWD. But the standard battery delivers much less: It’s good for 216 miles with FWD; AWD drops that to 205 miles, which is on the low s_ide versus rivals",
+      "supplier_name":"Jennifer Geiger",
+      "quantity":11,
+      "price":6589,
+      "rating":5
+      
+
+  },
+  {
+  
+      "img": "https://images.cars.com/cldstatic/wp-content/uploads/audi-q4-e-tron-2022-02-exterior-front-angle-scaled.jpg",
+      "name":"2023 Audi Q4 e-Tron and Q4",
+      "description":"Carrying the cachet that comes with an Audi badge, the Q4 e-Tron family of electric SUVs do very little poorly or foolishly and are a “normal” option for shoppers who aren’t as daring as some EV early adopters.",
+      "supplier_name":"Brian Normile",
+      "quantity":24,
+      "price":2541,
+      "rating":4
+      
+  }
+]

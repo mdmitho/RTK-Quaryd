@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Galaxy Watch",
+        "price":100,
+        "img": "http://mu.creativeracer.net/lando/pro/images/screenshot-2017-9-28%20apple%20watch%20series%203.png?crc=126799423",
+        "description": "This watch has a multi-function knob with an ultra-light aluminum alloy body, Anodizing process, never fades. The Galaxy Watch 3 ATM waterproof smartwatch can work well on rainy days, and hand washing. Please do not wear it when deep diving or in hot water more than 40°C",
+        "review":15,
+        "stock":100
+       
+     },
+    {
+        "name": "Zepp E Square",
+        "price":150,
+        "img": "http://mu.creativeracer.net/lando/pro/images/screenshot-2017-9-28%20apple%20watch%20series%201.png?crc=465914753",
+        "description": "Zepp E is a health partner that helps you understand multiple health metrics. With the cutting-edge bio-tracking optical sensor and leading AI algorithms, it’s easier than ever to track and analyze your wellness and fitness data. Blood-oxygen saturation (SpO2) is an important indicator of health,",
+        "review":18,
+        "stock":120
+       
+     
+     },
+    {
+        "name": "Galaxy Watch Active",
+        "price":170,
+        "img": "http://mu.creativeracer.net/lando/pro/images/148918.png?crc=264854598",
+        "description": "This COLMI P28 Plus smart watch has a 1.69inch Large TFT touch screen curved with 2.5D glass and created with a resolution of 240 x 280 pixels. This wearable is also packed with a variety of watch faces and support customized dials.",
+        "review":14,
+        "stock":130
+       
+     
+     },
+    {
+        "name": "Xiaomi Smart Band 6",
+        "price":140,
+        "img": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/c9c3ae6e3f78df4924e8b3b9bf50d8e7/x/i/xiaomi-band-6.jpg",
+        "description": "Supported exercises: Treadmill, Freestyle, Outdoor running, Cycling, Walking, Pool swimming, Rowing machine, Elliptical, Indoor cycling, Yoga, Jump rope, Dance, Indoor fitness, Gymnastics, HIIT, Core training, Stretching, Bowling, Badminton, Boxing",
+        "review":9,
+        "stock":130
+       
+     },
+    {
+        "name": "LEMFO LEM X",
+        "price":200,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/AA%20new%20Products/113/216/lemx-lemfo-original-imafcwnba4dmstzh-550x550h.jpeg",
+        "description": "900mAh high capacity battery.Built in 8MP Camera.Display moving to light it.2.03 inch 640*590 screen.Replacement strap.Life waterproof (Please do not put it in water).Stylish popular clock interface for choice.Bluetooth 4.0/ GPS Navigation / WiFi Supported",
+        "review":8,
+        "stock":130
+       
+     },
+    {
+        "name": "XINJI PAGT G2",
+        "price":240,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/098/pagt-g2-gold-01-500x500-550x550.jpg",
+        "description": "The XINJI PAGT G2 Smart Watch comes with a Retina HD large screen making the display clear and true-to-life, with vivid colors ensuring smooth readability. With the 1.2 inch HD Screen, XINJI G2 brings you a more comfortable visual enjoyment and user experience",
+        "review":11,
+        "stock":140
+       
+     },
+    {
+        "name": "Zepp Z Premium",
+        "price":280,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/smartwatch%202/zepp/zepp-z-premium-smartwatch/zepp-z-premium-smartwatch-550x550.jpg",
+        "description": "Zepp Z is Premium Smartwatch from Zepp Inc. This smartwatch has a classic design with contemporary technology. With a timeless design and refined quality, The Zepp Z case is a single piece of polished titanium alloy, making it both incredibly lightweight and exceptionally strong. ",
+        "review":10,
+        "stock":170
+       
+     },
+    {
+        "name": "Havit HV-M93",
+        "price":230,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/105/hv-m93-green-01-500x500-550x550.jpg",
+        "description": "The Havit HV-M93 features a 1.4-inch TFT full touch screen HD display for a better visual experience. There are built-in dynamic watch faces and you can choose the style that suits you. It is equipped with an optical heart rate and blood pressure sensor on the back directly to sense the blood flow under the skin through LED light ",
+        "review":13,
+        "stock":150
+       
+     },
+    {
+        "name": "Fire-Boltt Invincible",
+        "price":280,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/072/invincible-black-01-550x550.jpg",
+        "description": "The Fire-Boltt Invincible comes with a 1.39” AMOLED always-on display with 454*454 Pixels Resolution. It features 100 inbuilt watch faces. The Fire-Boltt Invincible supports TWS Pairing and it comes with an internal memory of 8GB that allows you to store all your favorite music right on your smartwatch. ",
+        "review":20,
+        "stock":180
+       
+     },
+    {
+        "name": "Microwear W17",
+        "price":280,
+        "img": "https://www.pchouse.com.bd/image/cache/catalog/11A/076/Microwear-W17-Smart-Watch-2-550x550.jpg",
+        "description": "The artisan quality, the best materials, and the excellent craftsmanship make the smartwatch most gorgeous. The W17 watch case is made with 48 CNC processing alloy and processing gorilla glass. Also, the glass of the display is a 2.5D mirror integrated.",
+        "review":20,
+        "stock":150
+       
+     }
+]
