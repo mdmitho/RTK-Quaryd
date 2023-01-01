@@ -1,19 +1,27 @@
 import React, { useEffect, useState } from 'react'
+import { toast } from 'react-hot-toast'
+import { useDispatch, useSelector } from 'react-redux'
+import { getProducts, removeProducts } from '../../../app/product/productSlice'
 
 
 
 export const ProductList = () => {
-  const [products, setProducts] = useState([])
-
-
+const { products,isLoading,deleteSuccess,isError,error} = useSelector((state)=> state.products)
+  const dispatch = useDispatch()
 
   useEffect(()=>{
-    fetch("http://localhost:5000/products")
-    .then((res)=> res.json())
-    .then(data=> setProducts(data))
+ 
+    dispatch(getProducts())
   },[])
+  useEffect(()=>{
+    if(!isLoading && deleteSuccess){
+      toast.success('Successfully Remove')
+    }
+  },[isLoading, deleteSuccess])
 
-
+  if(isLoading){
+    return <p>Loading.........</p>
+  }
   return (
     <>
      <div class='flex flex-col justify-center items-center h-full w-full '>
@@ -74,7 +82,7 @@ export const ProductList = () => {
                   <td class='p-2'>
                     <div class='flex justify-center'>
                       <button
-                      //  onClick={() => dispatch(deleteProduct(_id))}
+                       onClick={() => dispatch(removeProducts(_id))}
                        >
                       
                         <svg
