@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { toast } from 'react-hot-toast'
 import { useDispatch, useSelector } from 'react-redux'
-import { getProducts, removeProducts } from '../../../app/product/productSlice'
+// import { getProducts, removeProducts } from '../../../app/product/productSlice'
 
 
 
@@ -9,10 +9,10 @@ export const ProductList = () => {
 const { products,isLoading,deleteSuccess,isError,error} = useSelector((state)=> state.products)
   const dispatch = useDispatch()
 
-  useEffect(()=>{
+  // useEffect(()=>{
  
-    dispatch(getProducts())
-  },[])
+  //   dispatch(getProducts())
+  // },[])
   useEffect(()=>{
     if(!isLoading && deleteSuccess){
       toast.success('Successfully Remove')
@@ -82,7 +82,7 @@ const { products,isLoading,deleteSuccess,isError,error} = useSelector((state)=> 
                   <td class='p-2'>
                     <div class='flex justify-center'>
                       <button
-                       onClick={() => dispatch(removeProducts(_id))}
+                      //  onClick={() => dispatch(removeProducts(_id))}
                        >
                       
                         <svg

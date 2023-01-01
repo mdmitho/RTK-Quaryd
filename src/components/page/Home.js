@@ -2,29 +2,32 @@ import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Outlet } from "react-router-dom";
 import { toggle, toggleBrands } from "../../app/feature/filter/filterSlice";
-import { getProducts } from "../../app/product/productSlice";
+// import { getProducts } from "../../app/product/productSlice";
 import { Cart } from "./Cart";
 import Navbar from "./Navbar";
 import { ProductsCard } from "./ProductsCard";
 
 export const Home = () => {
 const filter = useSelector((state)=> state.filter)
-const {products,isLoading} = useSelector((state)=> state.products)
+// const {products,isLoading} = useSelector((state)=> state.products)
 const {brands, stock} = filter
 const dispatch = useDispatch()
 
-  useEffect(()=>{
- 
-    dispatch(getProducts())
-  },[])
+const [products, setProducts] = useState([]);
+
+useEffect(() => {
+  fetch("http://localhost:5000/products")
+    .then((res) => res.json())
+    .then((data) => setProducts(data));
+}, []);
   const activeClass = "text-white  bg-accent border-white";
 
 
 let content;
 
-if(isLoading){
-  content = <p className="text-center">Loading........</p>
-}
+// if(isLoading){
+//   content = <p className="text-center">Loading........</p>
+// }
 
 if(products.length){
  content = products.map((product)=>(
