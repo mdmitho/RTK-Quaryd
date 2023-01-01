@@ -1,3 +1,4 @@
+import axios from "axios";
 import instance from "../../utils/axios.config";
 
 export const fetchProduct = async () =>{
@@ -6,3 +7,7 @@ export const fetchProduct = async () =>{
     console.log(data.data)
     return data.data
 } 
+
+export const postProduct = async (productData)=>{
+    await axios.post('/product', productData)
+}
